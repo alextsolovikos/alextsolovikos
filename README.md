@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+I am an Aerospace Engineering PhD candidate at the University of Texas at Austin and Mechanical Engineering graduate (BS/MS with highest honors) from the National Technical University of Athens with a wide mathematical and programming background in control theory, computational engineering, and machine learning. 
+
+- 🔭 I'm currently working on ML for model reduction and control of high-dimensional, nonlinear systems, with an emphasis on turbulent flows.
+- 🌱 Some of the topics that I have worked on include stochastic optimal control, high-performance computing, deep learning models for trajectory prediction, reinforcement learning, fluid dynamics, adjoint-based aerodynamic shape optimization, and computational geometry.
+
 <!--
 **alextsolovikos/alextsolovikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
