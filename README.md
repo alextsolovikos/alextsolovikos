@@ -5,6 +5,8 @@ I am an Aerospace Engineering PhD candidate at the University of Texas at Austin
 
 🔭 I'm currently working on ML for model reduction and control of high-dimensional, nonlinear systems, with an emphasis on turbulent flows.
 
+Check out my [website](https://alextsolovikos.github.io) for more information!
+
 <!--
 **alextsolovikos/alextsolovikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
