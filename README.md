@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-I am an Aerospace Engineering PhD candidate at the University of Texas at Austin and Mechanical Engineering graduate (BS/MS with highest honors) from the National Technical University of Athens with a wide engineering background in control theory, robotics, computational engineering, and machine learning. 
+I am an Aerospace Engineering PhD candidate at The University of Texas at Austin working on ML for model reduction and control of high-dimensional, nonlinear systems. 
 
-🔭 I'm currently working on ML for model reduction and control of high-dimensional, nonlinear systems, with an emphasis on turbulent flows.
+🔭 Some of my interests include: model predictive control; reinforcement learning; environment perception for automotive applications; simultaneous localization and mapping; vision and radar object detection; transformer-based architectures for motion prediction; HD maps; computational geometry; and high-performance computing.
 
 Check out my [website](https://alextsolovikos.github.io) for more information!
