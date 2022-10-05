@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 
 I am an Aerospace Engineering PhD candidate at The University of Texas at Austin working on ML for model reduction and control of high-dimensional, nonlinear systems. 
